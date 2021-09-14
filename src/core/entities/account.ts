@@ -8,4 +8,8 @@ export class Account {
     this.owner = owner;
     this.availableLimit = availableLimit;
   }
+
+  public updateAvailableLimit(value: number) {
+    this.availableLimit += value;
+  }
 }
