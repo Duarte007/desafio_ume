@@ -4,7 +4,7 @@ Antes de mais nada instale as dependências do projeto:
 
 `yarn`
 
-Para executar o serviço, basta alterar o arquivo `input.txt`
+Para executar o serviço, basta alterar o arquivo `input.txt`.
 O mesmo possui os valores iniciais de exemplo do desafio.
 
 Ao alterar o arquivo, execute o comando:
